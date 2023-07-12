@@ -1,0 +1,15 @@
+F:\program\C#\Basic exercises\Nullable in C#\Nullablel\Null Conditional oprator\bin\Debug\net6.0\Null Conditional oprator.exe
+F:\program\C#\Basic exercises\Nullable in C#\Nullablel\Null Conditional oprator\bin\Debug\net6.0\Null Conditional oprator.deps.json
+F:\program\C#\Basic exercises\Nullable in C#\Nullablel\Null Conditional oprator\bin\Debug\net6.0\Null Conditional oprator.runtimeconfig.json
+F:\program\C#\Basic exercises\Nullable in C#\Nullablel\Null Conditional oprator\bin\Debug\net6.0\Null Conditional oprator.dll
+F:\program\C#\Basic exercises\Nullable in C#\Nullablel\Null Conditional oprator\bin\Debug\net6.0\Null Conditional oprator.pdb
+F:\program\C#\Basic exercises\Nullable in C#\Nullablel\Null Conditional oprator\obj\Debug\net6.0\Null Conditional oprator.csproj.AssemblyReference.cache
+F:\program\C#\Basic exercises\Nullable in C#\Nullablel\Null Conditional oprator\obj\Debug\net6.0\Null Conditional oprator.GeneratedMSBuildEditorConfig.editorconfig
+F:\program\C#\Basic exercises\Nullable in C#\Nullablel\Null Conditional oprator\obj\Debug\net6.0\Null Conditional oprator.AssemblyInfoInputs.cache
+F:\program\C#\Basic exercises\Nullable in C#\Nullablel\Null Conditional oprator\obj\Debug\net6.0\Null Conditional oprator.AssemblyInfo.cs
+F:\program\C#\Basic exercises\Nullable in C#\Nullablel\Null Conditional oprator\obj\Debug\net6.0\Null Conditional oprator.csproj.CoreCompileInputs.cache
+F:\program\C#\Basic exercises\Nullable in C#\Nullablel\Null Conditional oprator\obj\Debug\net6.0\Null Conditional oprator.dll
+F:\program\C#\Basic exercises\Nullable in C#\Nullablel\Null Conditional oprator\obj\Debug\net6.0\refint\Null Conditional oprator.dll
+F:\program\C#\Basic exercises\Nullable in C#\Nullablel\Null Conditional oprator\obj\Debug\net6.0\Null Conditional oprator.pdb
+F:\program\C#\Basic exercises\Nullable in C#\Nullablel\Null Conditional oprator\obj\Debug\net6.0\Null Conditional oprator.genruntimeconfig.cache
+F:\program\C#\Basic exercises\Nullable in C#\Nullablel\Null Conditional oprator\obj\Debug\net6.0\ref\Null Conditional oprator.dll
