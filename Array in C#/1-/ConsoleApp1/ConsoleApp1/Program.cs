@@ -2,6 +2,10 @@
 //ints[0] = 15;
 //ints[1] = 20;
 //ints[2]=30;
+for(int b=0;b<3;b++)
+{
+    Console.WriteLine(ints[b]);
+}
 
 Console.WriteLine(ints[2]);
 
